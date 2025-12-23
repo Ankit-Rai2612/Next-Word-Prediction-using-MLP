@@ -18,3 +18,6 @@ Developing a next-word prediction model using a Multi-Layer Perceptron (MLP) tha
 
 ## Development Tools
 - Google Colab – For writing, training, and testing the model.
+
+## Result
+- <a href="https://github.com/Ankit-Rai2612/Next-Word-Prediction-using-MLP/blob/main/Next_Word_Prediction.ipynb">Implemenation Result</a>
